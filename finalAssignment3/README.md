@@ -20,25 +20,21 @@ In this iteration, I added 2 parameters to the CountVectorizer object:
 
 <h4>Cluster 10</h4>
 
-![image]()
+![image](https://github.com/hphamdesign/machine-learning/blob/main/finalAssignment3/cluster10.png)
 
 <h4>Cluster 25</h4>
 
-![image]()
+![image](https://github.com/hphamdesign/machine-learning/blob/main/finalAssignment3/cluster25.png)
 
 <h4>Cluster 35</h4>
 
-![image]()
+![image](https://github.com/hphamdesign/machine-learning/blob/main/finalAssignment3/cluster35.png)
 
 <h4>Cluster 45</h4>
 
-![image]()
-
-<h4>Cluster 55</h4>
-
-![image]()
+![image](https://github.com/hphamdesign/machine-learning/blob/main/finalAssignment3/cluster45.png)
 
 <h2>My Assessment</h2>
-<p>With n=10, there is a clear elbow around 3 clusters. However, in the output combined like (give examples from the output box) are categorizing unusually combination. Using greater value of n at 35,45 and 55; it is observed that the graph seems to be flattering around 25 and the output are categorized in a more reasonable manner</p>    
+<p>With n=10, there is a clear elbow around 3 clusters. However, in the output combined like <i>Brand Bybee's Best, Net Wt 20 lb, UPC 4635800010  Cut Corn </i> are creating odd categories. By increasing the value of n to 35 and 45, the graph appears to level out around 20 clusters. The categorization of the output also becomes more logical and sensible <i>Italian Green Beans, not ready to eat</i>.</p>    
 
-![image]()
+![image](https://github.com/hphamdesign/machine-learning/blob/main/finalAssignment3/assignment3_conclu.png)
